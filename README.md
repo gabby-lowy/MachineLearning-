@@ -1,2 +1,4 @@
-# MachineLearning
-basic machine learning numbers
+# MachineLearning 
+Basic machine learning digit recognition of natural numbers 
+
+
