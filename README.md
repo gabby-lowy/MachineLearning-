@@ -1,2 +1,2 @@
-# MachineLearning-
+# MachineLearning
 basic machine learning numbers
